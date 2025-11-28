@@ -12,7 +12,6 @@ Studying **Computer Engineering**, mainly working on **backend development**.
 Creating backend logic, APIs, databases, and automation tools.  
 Focused on Python, Django, SQL, and Telegram bot frameworks like Aiogram & pyTelegramBotAPI.
 
-    </td>
   </tr>
 </table>
 
