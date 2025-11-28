@@ -1,15 +1,20 @@
 <!-- README.md -->
 <!-- Profile Image (left, top) -->
-<p align="left">
-  <img src="01706f1f5fc39b3de2e87359125ab6be.png" width="180" style="border-radius: 12px;" />
-</p>
-
+<table>
+  <tr>
+    <td width="200">
+      <img src="01706f1f5fc39b3de2e87359125ab6be.png" width="180" style="border-radius: 12px;" />
+    </td>
+    <td>
+      
 ## 💫 About Me
 Studying **Computer Engineering**, mainly working on **backend development**.  
 Creating backend logic, APIs, databases, and automation tools.  
 Focused on Python, Django, SQL, and Telegram bot frameworks like Aiogram & pyTelegramBotAPI.
----
 
+    </td>
+  </tr>
+</table>
 
 ### What I actually do:
 
