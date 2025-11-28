@@ -2,10 +2,6 @@
 <!-- Profile Image (left, top) -->
 <table>
   <tr>
-    <td width="200">
-      <img src="01706f1f5fc39b3de2e87359125ab6be.png" width="180" style="border-radius: 12px;" />
-    </td>
-    <td>
       
 ## 💫 About Me
 Studying **Computer Engineering**, mainly working on **backend development**.  
