@@ -1,4 +1,5 @@
 <!-- README.md -->
+<!-- Profile Image (left, top) -->
 <p align="left">
   <img src="01706f1f5fc39b3de2e87359125ab6be.png" width="180" style="border-radius: 12px;" />
 </p>
