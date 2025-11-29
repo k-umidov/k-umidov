@@ -42,6 +42,7 @@ I don’t try to be everything — just effective.
 ---
 
 ### Contribution  
+![snake animation](https://raw.githubusercontent.com/Kamoliddin7777/Kamoliddin7777/output/github-contribution-grid-snake.svg)
 
 
  🔗 My Projects
