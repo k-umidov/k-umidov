@@ -40,31 +40,5 @@ I don’t try to be everything — just effective.
   <img src="https://img.shields.io/badge/pyTelegramBotAPI-26A5E4?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
----
 
-## 🏆 **Stats & Activity**
-
-<div align="center">
-
-### ⭐ GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kamoliddin7777&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamoliddin7777&layout=compact&theme=tokyonight" height="170" />
-
-### 🔥 Streaks
-
-<img src="https://streak-stats.demolab.com?user=Kamoliddin7777&theme=tokyonight&hide_border=true" />
-
-### ⚡ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamoliddin7777&theme=react-dark&hide_border=true&area=true" />
-
-</div>
-
----
-
-
----
-
----
 
