@@ -44,6 +44,4 @@ I don’t try to be everything — just effective.
 ### Contribution  
 
 
- 🔗 My Projects
-[ View all my repositories](https://github.com/Kamoliddin7777?tab=repositories)
 ---
