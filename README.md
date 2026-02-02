@@ -33,7 +33,7 @@ I don’t try to be everything — just effective.
 ## 🛠 **Tools & Technologies**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,drf,html,css,js,postgres,sqlite,git,github,vscode,pycharm,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,postgres,sqlite,git,github,vscode,pycharm,windows&theme=dark" />
   <br>
   <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
   <img src="https://img.shields.io/badge/aiogram-%2300A8E1.svg?style=for-the-badge&logo=telegram&logoColor=white" />
