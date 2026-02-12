@@ -1,11 +1,9 @@
 <!-- README.md -->
 
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DRF+Developer;Backend+Developer;Python+%7C+Django+%7C+SQL;Telegram+Bots+Developer;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Django+%7C+DRF;SQL+%7C+PostgreSQL;Telegram+Bots+Developer;Always+Learning+Something+New" />
 </p>
-
 ---
 
 ## 💫 **About Me**
