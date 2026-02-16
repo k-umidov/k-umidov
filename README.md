@@ -37,7 +37,6 @@ I don’t try to be everything — just effective.
 <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
 <img src="https://img.shields.io/badge/aiogram-%2300A8E1.svg?style=for-the-badge&logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/pyTelegramBotAPI-26A5E4?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
 
 </p>
 
